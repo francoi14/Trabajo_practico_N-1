@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    
+    background-color: #50a2bd; 
+    
+    color: black; 
+    
+    font-size: 16px;
+}
+
+h1, h2 {
+
+    color: black;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #00008b;
+    font-weight: bold;
+}
